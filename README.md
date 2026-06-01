@@ -2,7 +2,7 @@
 
 # Tere tulemast minu GitHubi profiilile! 👋
 ```
-Minu nimi on **Serhii Slesarchuk** ja ma õpin Tallinna Tööstushariduskeskuses (TTHK) grupis **LOGITpv24**.
+Minu nimi on Serhii Slesarchuk ja ma õpin Tallinna Tööstushariduskeskuses (TTHK) grupis LOGITpv24.
 ```
 
 ### Minust
