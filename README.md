@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**SerhiiSlesarchuk1/SerhiiSlesarchuk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tere tulemast minu GitHubi profiilile! 👋
+```
+Minu nimi on **Serhii Slesarchuk** ja ma õpin Tallinna Tööstushariduskeskuses (TTHK) grupis **LOGITpv24**.
+```
 
-Here are some ideas to get you started:
+### Minust
+```
+- 👨‍💻 Õpin IT-korralduse aluseid ja süsteemihaldust.
+- 🚀 Minu huvialadeks IT-valdkonnas on kaasaegsed tehnoloogiad, versioonihaldus ja arendusprotsessid.
+- 🛠️ Vabal ajal püüan arendada oma tehnilisi oskusi ja õppida uusi IT-tööriistu.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minu õpingud
+```
+- [x] Giti ja GitHubi baasteadmised
+- [ ] ITIL raamistiku põhitõed
+- [ ] Projektijuhtimise alused
+```
